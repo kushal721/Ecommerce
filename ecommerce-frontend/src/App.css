@@ -12,8 +12,25 @@ body {
 .bg-blue {
   background: #233a95;
 }
-.container{
-  max-width: 90%;
+@media (min-width: 1300px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .sontainer-xl {
+    max-width: 1200px;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px !important;
+  height: 8px !important;
+}
+::-webkit-scrollbar-thumb {
+  background: #ccc !important;
+}
+::-webkit-scrollbar-track {
+  background: transparent i !important;
 }
 .headerWrapper .top-strip {
   padding: 8px 0px;
@@ -27,7 +44,7 @@ body {
 .headerWrapper .header {
   width: 100%;
   height: auto;
-  padding: 15px 0px;
+  padding: 25px 0px;
 }
 .logoWrapper img {
   width: 100%;
@@ -64,7 +81,7 @@ body {
   opacity: 0.7;
 }
 
-header .headerSearch {
+.headerSearch {
   width: 60%;
   height: 60px;
   background-color: #f3f4f7;
@@ -73,7 +90,7 @@ header .headerSearch {
   border-radius: 5px;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
-header .headerSearch input {
+.headerSearch input {
   background: transparent !important;
   outline: NONE !important;
   font-size: 16px;
@@ -83,12 +100,14 @@ header .headerSearch input {
   border: 0px !important;
   padding: 0px 20px !important;
 }
-header .headerSearch input:: ::-webkit-input-placeholder{color: rgba(0, 0, 0, 0.6);}
+.headerSearch input:: ::-webkit-input-placeholder {
+  color: rgba(0, 0, 0, 0.6);
+}
 
-header .headerSearch button {
+.headerSearch button {
   position: absolute;
   top: 10px;
-  right: 15px;
+  right: 10px;
   z-index: 100;
   min-width: 40px !important;
   height: 40px !important;
@@ -96,8 +115,9 @@ header .headerSearch button {
   border-radius: 50% !important;
   color: black;
 }
-header .headerSearch button svg {
+.headerSearch button svg {
   font-size: 25px;
+  opacity: 0.8;
 }
 
 header .part3 .circle {
@@ -134,4 +154,95 @@ header .part3 .circle svg {
   color: white;
   width: 20px;
   height: 20px;
+}
+
+/* locationModal */
+.locationModal .MuiPaper-elevation {
+  padding: 25px;
+  position: relative;
+}
+.locationModal .countryList {
+  margin-bottom: 0px;
+  max-height: 400px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.locationModal .countryList li {
+  width: 100%;
+  list-style: none;
+}
+.locationModal .countryList li button {
+  width: 100%;
+  text-decoration: capitalize !important;
+  color: #000 !important;
+  justify-content: flex-start !important;
+  padding: 10px 20px;
+}
+.locationModal .close_ {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  color: #000 !important;
+  min-width: 40px !important;
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50% !important;
+}
+.locationModal .close_ svg {
+  font-size: 22px;
+}
+
+/* Nav */
+nav .navPart1 {
+  max-width: 20%;
+  flex: 0 0 20%;
+}
+nav .navPart2 {
+  max-width: 80%;
+  flex: 0 0 80%;
+}
+nav .allCatTab {
+  background: #2bbef9;
+  padding: 8px 15px !important;
+  border-radius: 30px !important;
+}
+nav .allCatTab * {
+  color: white;
+}
+nav .allCatTab:hover {
+  background: #2bbef9;
+}
+nav .allCatTab .text {
+  font-weight: 600;
+}
+
+nav .allCatTab .icon1 svg {
+  font-size: 20px !important;
+}
+nav .allCatTab .icon2 svg {
+  font-size: 15px !important;
+}
+
+nav .navPart2 ul {
+  margin-bottom: 0px;
+}
+
+nav .navPart2 ul li a {
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.7);
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  padding: 8px 13px;
+  transition: all 0.2s ease-in-out;
+  border-radius: 20px;
+}
+nav .navPart2 ul li a svg {
+  font-size: 20px;
+}
+nav .navPart2 ul li a:hover {
+  background: #f0faff;
+  color: #2bbef9;
 }
