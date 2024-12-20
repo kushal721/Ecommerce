@@ -4,16 +4,21 @@ import { IoIosMenu } from "react-icons/io";
 import { FaAngleDown } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { IoHomeOutline } from "react-icons/io5";
+import { FaAngleRight } from "react-icons/fa6";
+
 const Navigation = () => {
-  const [isOpenSidebarVal, setisopenSidebarVal] = useState(false)
-  
+  const [isOpenSidebarVal, setisopenSidebarVal] = useState(false);
+
   return (
     <nav>
       <div className="container">
         <div className="row">
           <div className="col-sm-2 navPart1">
             <div className="catWrapper">
-              <Button className="allCatTab align-items-center " onClick={()=>setisopenSidebarVal(!isOpenSidebarVal)}>
+              <Button
+                className="allCatTab align-items-center "
+                onClick={() => setisopenSidebarVal(!isOpenSidebarVal)}
+              >
                 <span className="icon1 mr-2">
                   <IoIosMenu />
                 </span>
@@ -22,50 +27,146 @@ const Navigation = () => {
                   <FaAngleDown />
                 </span>
               </Button>
-              <div className={`sidebarNav ${isOpenSidebarVal === true ? 'open': ''}`}>
+              <div
+                className={`sidebarNav ${
+                  isOpenSidebarVal === true ? "open" : ""
+                }`}
+              >
                 <ul>
-                  <li> <Link to="/">
-                  <Button>
-                    <IoHomeOutline />
-                    &nbsp;Men
-                  </Button>
-                </Link></li>
-                <li> <Link to="/">
-                  <Button>
-                    <IoHomeOutline />
-                    &nbsp;Women
-                  </Button>
-                </Link></li>
-                <li> <Link to="/">
-                  <Button>
-                    <IoHomeOutline />
-                    &nbsp;Beauty
-                  </Button>
-                </Link></li>
-                <li> <Link to="/">
-                  <Button>
-                    <IoHomeOutline />
-                    &nbsp;watches
-                  </Button>
-                </Link></li>
-                <li> <Link to="/">
-                  <Button>
-                    <IoHomeOutline />
-                    &nbsp;Beauty
-                  </Button>
-                </Link></li>
-                <li> <Link to="/">
-                  <Button>
-                    <IoHomeOutline />
-                    &nbsp;watches
-                  </Button>
-                </Link></li>
-                <li> <Link to="/">
-                  <Button>
-                    <IoHomeOutline />
-                    &nbsp;Kids
-                  </Button>
-                </Link></li>
+                  <li>
+                    <Link to="/">
+                      <Button>
+                        <IoHomeOutline />
+                        &nbsp;Men
+                        <FaAngleRight className="ml-auto" />
+                      </Button>
+                    </Link>
+                    <div className="submenu">
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Clothing
+                        </Button>
+                      </Link>
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Footwear
+                        </Button>
+                      </Link>
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Watches
+                        </Button>
+                      </Link>
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Clothing
+                        </Button>
+                      </Link>
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Footwear
+                        </Button>
+                      </Link>
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Watches
+                        </Button>
+                      </Link>
+                    </div>
+                  </li>
+                  <li>
+                    <Link to="/">
+                      <Button>
+                        <IoHomeOutline />
+                        &nbsp;Women
+                        <FaAngleRight className="ml-auto" />
+                      </Button>
+                    </Link>
+                    <div className="submenu">
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Clothing
+                        </Button>
+                      </Link>
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Footwear
+                        </Button>
+                      </Link>
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Watches
+                        </Button>
+                      </Link>
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Clothing
+                        </Button>
+                      </Link>
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Footwear
+                        </Button>
+                      </Link>
+                      <Link to="/">
+                        <Button>
+                          <IoHomeOutline />
+                          &nbsp;Watches
+                        </Button>
+                      </Link>
+                    </div>
+                  </li>
+                  <li>
+                    <Link to="/">
+                      <Button>
+                        <IoHomeOutline />
+                        &nbsp;Beauty
+                      </Button>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="/">
+                      <Button>
+                        <IoHomeOutline />
+                        &nbsp;watches
+                      </Button>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="/">
+                      <Button>
+                        <IoHomeOutline />
+                        &nbsp;Beauty
+                      </Button>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="/">
+                      <Button>
+                        <IoHomeOutline />
+                        &nbsp;watches
+                      </Button>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link to="/">
+                      <Button>
+                        <IoHomeOutline />
+                        &nbsp;Kids
+                      </Button>
+                    </Link>
+                  </li>
                 </ul>
               </div>
             </div>

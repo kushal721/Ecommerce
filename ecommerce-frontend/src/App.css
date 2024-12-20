@@ -9,6 +9,7 @@
 body {
   font-family: "Lato", sans-serif;
   font-size: 14px;
+  color: rgba(0, 0, 0, 0.8);
 }
 
 .bg-blue {
@@ -22,6 +23,15 @@ body {
   .sontainer-xl {
     max-width: 1200px;
   }
+}
+.cursor {
+  cursor: pointer;
+}
+.text-light {
+  color: #8b8b9b !important;
+}
+.text-sml {
+  font-size: 14px;
 }
 
 ::-webkit-scrollbar {
@@ -236,16 +246,48 @@ nav .navPart1 .catWrapper .sidebarNav.open {
 nav .navPart1 .catWrapper .sidebarNav ul li {
   width: 100%;
   list-style: none;
-  padding: 0px 15px;
+  padding: 0px 10px;
 }
+
 nav .navPart1 .catWrapper .sidebarNav ul li button {
   color: #000;
   width: 100%;
   justify-content: flex-start;
   text-transform: capitalize !important;
 }
-navPart1 .catWrapper .sidebarNav ul li button:hover {
+nav .navPart1 .catWrapper .sidebarNav ul li button svg {
+  font-size: 12px;
+  opacity: 0.6;
+}
+
+nav .navPart1 .catWrapper .sidebarNav ul li button:hover {
   background-color: transparent;
+}
+
+nav .navPart1 .catWrapper .sidebarNav ul li {
+  position: static;
+}
+nav .navPart1 .catWrapper .sidebarNav ul li .submenu {
+  position: absolute;
+  top: 0px;
+  left: 105%;
+  width: 250px;
+  height: 100%;
+  background: white;
+  z-index: 100;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.2s ease-in-out;
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+nav .navPart1 .catWrapper .sidebarNav ul li:hover .submenu {
+  opacity: 1;
+  visibility: inherit;
+  left: 100%;
+}
+nav .navPart1 .catWrapper .sidebarNav ul li:hover .submenu button {
+  border-radius: 0px !important;
 }
 
 nav .navPart2 {
@@ -339,6 +381,8 @@ nav .navPart2 ul li .submenu a button:hover {
 .homeBannerSection {
   position: relative;
   overflow: hidden;
+  margin: 20px 20px 0px 20px;
+  border-radius: 5px;
 }
 .homeBannerSection * {
   outline: none;
@@ -372,4 +416,39 @@ nav .navPart2 ul li .submenu a button:hover {
   /* content: "\f104"; */
   font-family: FontAwesome !important;
   color: white;
+}
+
+.homeProducts {
+  padding: 20px 0px;
+  width: 100%;
+}
+.homeProducts .banner {
+  width: 100%;
+  border-radius: 7px;
+  overflow: hidden;
+}
+.homeProducts .banner img {
+  max-width: 100%;
+  object-fit: cover;
+}
+.productRow .hd {
+  font-size: 25px;
+  font-weight: 600;
+}
+.viewAllBtn {
+  padding: 8px 25px !important;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  border-radius: 30px !important;
+  color: #414141 !important;
+  font-weight: 600;
+  text-transform: capitalize !important;
+}
+.viewAllBtn svg {
+  font-size: 20px;
+}
+.productItem {
+  width: 100%;
+  height: auto;
+  border: 1px solid rgba(0, 0, 0, 0.1);
 }
