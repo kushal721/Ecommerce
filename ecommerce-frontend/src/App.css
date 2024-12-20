@@ -4,6 +4,8 @@
 }
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 
+@import url("https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css");
 body {
   font-family: "Lato", sans-serif;
   font-size: 14px;
@@ -31,6 +33,10 @@ body {
 }
 ::-webkit-scrollbar-track {
   background: transparent i !important;
+}
+
+.headerWrapper {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .headerWrapper .top-strip {
   padding: 8px 0px;
@@ -178,6 +184,12 @@ header .part3 .circle svg {
   justify-content: flex-start !important;
   padding: 10px 20px;
 }
+.locationModal .countryList li button:hover {
+  background: #f1f1f1 !important;
+}
+.locationModal .countryList li button.active {
+  background: #e8e6e6 !important;
+}
 .locationModal .close_ {
   position: absolute;
   top: 2px;
@@ -197,6 +209,45 @@ nav .navPart1 {
   max-width: 20%;
   flex: 0 0 20%;
 }
+
+nav .navPart1 .catWrapper {
+  position: relative;
+}
+nav .navPart1 .catWrapper .sidebarNav {
+  width: 100%;
+  height: 0px;
+  opacity: 0;
+  background: #fff;
+  position: absolute;
+  top: 136%;
+  left: 0px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 15px 0px;
+  transition: all 0.2s;
+  visibility: hidden;
+  z-index: 100;
+}
+nav .navPart1 .catWrapper .sidebarNav.open {
+  height: auto;
+  opacity: 1;
+  visibility: inherit;
+}
+
+nav .navPart1 .catWrapper .sidebarNav ul li {
+  width: 100%;
+  list-style: none;
+  padding: 0px 15px;
+}
+nav .navPart1 .catWrapper .sidebarNav ul li button {
+  color: #000;
+  width: 100%;
+  justify-content: flex-start;
+  text-transform: capitalize !important;
+}
+navPart1 .catWrapper .sidebarNav ul li button:hover {
+  background-color: transparent;
+}
+
 nav .navPart2 {
   max-width: 80%;
   flex: 0 0 80%;
@@ -228,16 +279,19 @@ nav .navPart2 ul {
 }
 
 nav .navPart2 ul li a {
-  font-size: 15px;
+  text-decoration: none;
+}
+nav .navPart2 ul li a button {
+  font-size: 14px !important;
   font-weight: 600;
   text-decoration: none;
-  color: rgba(0, 0, 0, 0.7);
+  color: rgba(0, 0, 0, 0.6);
   text-transform: uppercase;
   display: flex;
   align-items: center;
-  padding: 8px 13px;
+  padding: 8px 15px;
   transition: all 0.2s ease-in-out;
-  border-radius: 20px;
+  border-radius: 25px;
 }
 nav .navPart2 ul li a svg {
   font-size: 20px;
@@ -245,4 +299,77 @@ nav .navPart2 ul li a svg {
 nav .navPart2 ul li a:hover {
   background: #f0faff;
   color: #2bbef9;
+}
+
+nav .navPart2 ul li {
+  position: relative;
+  padding-bottom: 20px;
+}
+nav .navPart2 ul li .submenu {
+  position: absolute;
+  top: 100%;
+  left: 0px;
+  min-width: 200px;
+  background: #fff;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.2s ease-in-out;
+  z-index: 100;
+}
+nav .navPart2 ul li .submenu a {
+  display: block;
+  width: 100%;
+}
+nav .navPart2 ul li .submenu a button {
+  width: 100%;
+  justify-content: flex-start !important;
+  border-radius: 0px !important;
+  text-transform: capitalize !important;
+  font-weight: 600;
+}
+nav .navPart2 ul li:hover .submenu {
+  opacity: 1;
+  visibility: inherit;
+  top: 100%;
+}
+nav .navPart2 ul li .submenu a button:hover {
+  background: #f1f1f1 !important;
+}
+
+.homeBannerSection {
+  position: relative;
+  overflow: hidden;
+}
+.homeBannerSection * {
+  outline: none;
+}
+.homeBannerSection .slick-arrow {
+  position: absolute;
+  top: 45%;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px !important;
+  height: 40px !important;
+  background: #444444;
+  border-radius: 100%;
+  font-family: FontAwesome !important;
+  font-weight: bold;
+}
+.homeBannerSection .slick-arrow.slick-next {
+  right: 25px !important;
+}
+.homeBannerSection .slick-arrow.slick-prev {
+  left: 25px !important;
+}
+.homeBannerSection .slick-arrow.slick-next::before {
+  /* content: "\f104"; */
+  font-family: FontAwesome !important;
+  color: white;
+}
+.homeBannerSection .slick-arrow.slick-prev::before {
+  /* content: "\f104"; */
+  font-family: FontAwesome !important;
+  color: white;
 }
