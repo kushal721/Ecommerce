@@ -1,11 +1,17 @@
+
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import { Navigation } from "swiper/modules";
 import HomeBanner from "../../Components/HomeBanner";
+import banner1 from '../../assets/images/banner1.jpg';
+import banner2 from '../../assets/images/banner2.jpg'
 import Button from "@mui/material/Button";
 import { IoIosArrowRoundForward } from "react-icons/io";
+import Rating from "@mui/material/Rating";
+import { SlSizeFullscreen } from "react-icons/sl";
+import ProductItem from "../../Components/ProductItem";
 
 const Home = () => {
   // Slider configuration
@@ -28,7 +34,14 @@ const Home = () => {
             <div className="col-md-3">
               <div className="banner">
                 <img
-                  src="https://cmsimages.shoppersstop.com/Brand_Carousel_Web_Timex_f8f4981cf4/Brand_Carousel_Web_Timex_f8f4981cf4.png"
+                  src={banner1}
+                  alt="Best Sellers Banner"
+                  className="cursor w-100"
+                />
+              </div>
+              <div className="banner mt-3">
+                <img
+                  src={banner2}
                   alt="Best Sellers Banner"
                   className="cursor w-100"
                 />
@@ -50,7 +63,7 @@ const Home = () => {
               <div className="product_row w-100 mt-4">
                 <Swiper
                   slidesPerView={4}
-                  spaceBetween={30}
+                  spaceBetween={10}
                   pagination={{
                     clickable: true,
                   }}
@@ -58,71 +71,57 @@ const Home = () => {
                   className="mySwiper"
                 >
                   <SwiperSlide>
-                    <div className="item productItem">
-                      <div className="imgWrapper">
-                        <img
-                          src="https://cmsimages.shoppersstop.com/Boss_Luxe_Card_web_9d2dbbe599/Boss_Luxe_Card_web_9d2dbbe599.png"
-                          alt="Product 1"
-                          className="w-100"
-                        />
-                      </div>
-                    </div>
+                    <ProductItem />
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="item productItem">
-                      <div className="imgWrapper">
-                        <img
-                          src="https://cmsimages.shoppersstop.com/Boss_Luxe_Card_web_9d2dbbe599/Boss_Luxe_Card_web_9d2dbbe599.png"
-                          alt="Product 1"
-                          className="w-100"
-                        />
-                      </div>
-                    </div>
+                    <ProductItem />
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="item productItem">
-                      <div className="imgWrapper">
-                        <img
-                          src="https://cmsimages.shoppersstop.com/Boss_Luxe_Card_web_9d2dbbe599/Boss_Luxe_Card_web_9d2dbbe599.png"
-                          alt="Product 1"
-                          className="w-100"
-                        />
-                      </div>
-                    </div>
+                    <ProductItem />
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="item productItem">
-                      <div className="imgWrapper">
-                        <img
-                          src="https://cmsimages.shoppersstop.com/Boss_Luxe_Card_web_9d2dbbe599/Boss_Luxe_Card_web_9d2dbbe599.png"
-                          alt="Product 1"
-                          className="w-100"
-                        />
-                      </div>
-                    </div>
+                    <ProductItem />
+                  </SwiperSlide>
+
+                </Swiper>
+              </div>
+
+
+              <div className="d-flex align-items-center mt-5">
+                <div className="info w-75">
+                  <h3 className="mb-0 hd">NEW PRODUCTS</h3>
+                  <p className="text-light text-sml mb-0">
+                   New products with updated stocks.
+                  </p>
+                </div>
+                <Button className="viewAllBtn ml-auto">
+                  View All &nbsp;
+                  <IoIosArrowRoundForward />
+                </Button>
+              </div>
+              <div className="product_row w-100 mt-4">
+                <Swiper
+                  slidesPerView={4}
+                  spaceBetween={10}
+                  pagination={{
+                    clickable: true,
+                  }}
+                  modules={[Navigation]}
+                  className="mySwiper"
+                >
+                  <SwiperSlide>
+                    <ProductItem />
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="item productItem">
-                      <div className="imgWrapper">
-                        <img
-                          src="https://cmsimages.shoppersstop.com/Boss_Luxe_Card_web_9d2dbbe599/Boss_Luxe_Card_web_9d2dbbe599.png"
-                          alt="Product 1"
-                          className="w-100"
-                        />
-                      </div>
-                    </div>
+                    <ProductItem />
                   </SwiperSlide>
                   <SwiperSlide>
-                    <div className="item productItem">
-                      <div className="imgWrapper">
-                        <img
-                          src="https://cmsimages.shoppersstop.com/Boss_Luxe_Card_web_9d2dbbe599/Boss_Luxe_Card_web_9d2dbbe599.png"
-                          alt="Product 1"
-                          className="w-100"
-                        />
-                      </div>
-                    </div>
+                    <ProductItem />
                   </SwiperSlide>
+                  <SwiperSlide>
+                    <ProductItem />
+                  </SwiperSlide>
+
                 </Swiper>
               </div>
             </div>
