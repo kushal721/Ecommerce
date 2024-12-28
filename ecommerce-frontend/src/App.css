@@ -434,9 +434,11 @@ nav .navPart2 ul li .submenu a button:hover {
   object-fit: cover;
 }
 
-.productRow .hd {
+
+.hd {
   font-size: 20px;
   font-weight: 600;
+  text-transform: uppercase;
 }
 .viewAllBtn {
   padding: 8px 25px !important;
@@ -538,9 +540,45 @@ nav .navPart2 ul li .submenu a button:hover {
 .product_row .swiper-slide:last-child .productItem {
   border: 1px solid rgba(0, 0, 0, 0.1) !important;
 }
+.product_row .swiper-button-prev{
+  left: 0px !important;
+}
+.product_row .swiper-button-next{
+  right: 0px !important;
+}
 .swiper {
-  padding-right: 1px !important;
+  padding-right: 2px !important;
 }
 .badge-primary {
   background: #2bbef9 !important;
 }
+
+
+
+/* Home category */
+
+.homeCat{
+  padding: 35px 0px;
+}
+.homeCat .swiper .item{
+  padding: 15px;
+  width: 100%;
+  height: auto; 
+  border-radius: 10px;
+}
+.homeCat .swiper .item img{
+width: 80%;
+}
+.homeCat .swiper{
+  overflow: inherit;
+}
+.homeCat .swiper-button-prev, .homeCat .swiper-button-next{
+top: -50px !important;
+width: 30px !important;
+height: 30px !important;
+}
+.homeCat .swiper-button-prev{
+  right: 100px !important;
+  left: inherit !important;
+}
+
