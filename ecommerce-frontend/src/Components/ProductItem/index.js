@@ -5,7 +5,8 @@ import Rating from "@mui/material/Rating";
 import { FaRegHeart } from "react-icons/fa";
 const ProductItem = () => {
   return (
-    <div>
+    <>
+    <div className="product2">
       <div className="item productItem">
         <div className="imgWrapper">
           <img
@@ -41,6 +42,7 @@ const ProductItem = () => {
         </div>
       </div>
     </div>
+    </>
   );
 };
 
