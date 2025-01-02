@@ -16,6 +16,7 @@ import { SlSizeFullscreen } from "react-icons/sl";
 import ProductItem from "../../Components/ProductItem";
 import HomeCat from "../../Components/HomeCat";
 import { IoMailOutline } from "react-icons/io5";
+import Footer from "../../Components/Footer";
 
 const Home = () => {
   // Slider configuration
@@ -161,8 +162,8 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <br />
-      <br />
+
+      
     </>
   );
 };
