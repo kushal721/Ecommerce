@@ -3,6 +3,7 @@ import Button from "@mui/material/Button";
 import { SlSizeFullscreen } from "react-icons/sl";
 import Rating from "@mui/material/Rating";
 import { FaRegHeart } from "react-icons/fa";
+import ProductModal from "../ProductModal";
 const ProductItem = () => {
   return (
     <>
@@ -42,6 +43,8 @@ const ProductItem = () => {
         </div>
       </div>
     </div>
+
+    <ProductModal />
     </>
   );
 };
