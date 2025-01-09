@@ -200,17 +200,17 @@ header .part3 .circle svg {
 .locationModal .countryList li button.active {
   background: #e8e6e6 !important;
 }
-.locationModal .close_ {
-  position: absolute;
-  top: 2px;
-  right: 2px;
+ .close_ {
+  position: absolute !important;
+  top: 10px;
+  right: 10px;
   color: #000 !important;
   min-width: 40px !important;
   width: 40px !important;
   height: 40px !important;
   border-radius: 50% !important;
 }
-.locationModal .close_ svg {
+ .close_ svg {
   font-size: 22px;
 }
 
@@ -743,4 +743,20 @@ footer .copyright ul li a:hover{
 }
 footer .copyright ul li a:hover svg{
   color: #fff;
+}
+
+
+
+
+.productModal .MuiPaper-elevation {
+  padding: 25px;
+  position: relative;
+  
+  max-width: 900px !important;
+  width: 900px !important;
+}
+
+.productModal h4 {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.8);
 }
