@@ -13,7 +13,7 @@ body {
 }
 
 .bg-blue {
-  background: #233a95;
+  background: #a61313;
 }
 @media (min-width: 1300px) {
   .container,
@@ -23,6 +23,40 @@ body {
   .sontainer-xl {
     max-width: 1200px;
   }
+}
+.badge {
+  display: inline-block;
+  pad: 7px 10px;
+}
+.badge.bg-success {
+  background: #e5f8ed !important;
+  color: #16b858 !important;
+}
+button {
+  text-transform: capitalize !important;
+}
+
+.btn-blue {
+  background: #a61313 !important;
+  color: #fff !important;
+
+  text-transform: capitalize !important;
+}
+.btn-big {
+  font-size: 15px !important;
+  padding: 7px 30px !important;
+  min-width: auto !important;
+}
+.btn-round {
+  border-radius: 30px !important;
+}
+.btn-sml {
+  font-size: 12px !important;
+  color: #000;
+  text-transform: capitalize !important;
+}
+.btn-sml svg {
+  font-size: 20px;
 }
 .cursor {
   cursor: pointer;
@@ -89,7 +123,7 @@ body {
 .headerWrapper .header .part2 .countryDrop .name {
   font-size: 14px !important;
   text-transform: capitalize !important;
-  color: #233a95 !important;
+  color: #a61313 !important;
   font-weight: 700;
 }
 
@@ -200,7 +234,7 @@ header .part3 .circle svg {
 .locationModal .countryList li button.active {
   background: #e8e6e6 !important;
 }
- .close_ {
+.close_ {
   position: absolute !important;
   top: 10px;
   right: 10px;
@@ -210,7 +244,7 @@ header .part3 .circle svg {
   height: 40px !important;
   border-radius: 50% !important;
 }
- .close_ svg {
+.close_ svg {
   font-size: 22px;
 }
 
@@ -261,7 +295,8 @@ nav .navPart1 .catWrapper .sidebarNav ul li button svg {
 }
 
 nav .navPart1 .catWrapper .sidebarNav ul li button:hover {
-  background-color: transparent;
+  background-color: transparent !important;
+  color: #a61313 !important;
 }
 
 nav .navPart1 .catWrapper .sidebarNav ul li {
@@ -295,7 +330,7 @@ nav .navPart2 {
   flex: 0 0 80%;
 }
 nav .allCatTab {
-  background: #2bbef9;
+  background: #a61313;
   padding: 8px 15px !important;
   border-radius: 30px !important;
 }
@@ -303,7 +338,7 @@ nav .allCatTab * {
   color: white;
 }
 nav .allCatTab:hover {
-  background: #2bbef9;
+  background: #ff1313;
 }
 nav .allCatTab .text {
   font-weight: 600;
@@ -340,7 +375,7 @@ nav .navPart2 ul li a svg {
 }
 nav .navPart2 ul li a:hover {
   background: #f0faff;
-  color: #2bbef9;
+  color: #a61313;
 }
 
 nav .navPart2 ul li {
@@ -380,14 +415,14 @@ nav .navPart2 ul li .submenu a button:hover {
 
 .homeBannerSection {
   position: relative;
-  
+
   /* margin: 20px 20px 0px 20px;
   border-radius: 5px; */
 }
-.homeBannerSection .swiper{
+.homeBannerSection .swiper {
   overflow: inherit !important;
 }
-.homeBannerSection .swiper .item{
+.homeBannerSection .swiper .item {
   overflow: hidden;
   border-radius: 10px;
 }
@@ -481,13 +516,19 @@ nav .navPart2 ul li .submenu a button:hover {
   font-size: 15px;
   font-weight: 600;
 }
-.productItem .info .oldPrice {
+.info .oldPrice {
   font-size: 16px;
   font-weight: bold;
   color: rgba(0, 0, 0, 0.2);
   text-decoration: line-through;
 }
-.productItem .info .netPrice {
+.info .oldPrice.lg {
+  font-size: 20px;
+}
+.info .netPrice.lg {
+  font-size: 20px;
+}
+.info .netPrice {
   font-size: 16px;
   font-weight: bold;
 }
@@ -521,7 +562,7 @@ nav .navPart2 ul li .submenu a button:hover {
   font-size: 15px;
 }
 .productItem .actions button:hover {
-  background: #233a95 !important;
+  background: #a61313 !important;
 }
 .productItem .actions button:hover svg {
   color: #fff !important;
@@ -615,7 +656,8 @@ nav .navPart2 ul li .submenu a button:hover {
 .newsLetterSection {
   width: 100%;
   height: auto;
-  background: #233a95;
+  background-image: linear-gradient(to bottom right, #a61313, #e94545);
+  /* background: #a61313; */
   position: relative;
   overflow: hidden;
   padding: 70px 0px;
@@ -669,7 +711,7 @@ nav .navPart2 ul li .submenu a button:hover {
   position: absolute;
   top: 6px;
   right: 7px;
-  background-color: #233a95 !important;
+  background-color: #a61313 !important;
   font-size: 14px !important;
   padding: 12px 25px !important;
   color: #fff;
@@ -731,27 +773,22 @@ footer .copyright ul li a {
   height: 35px;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 50%;
-  
 }
 footer .copyright ul li a svg {
   font-size: 16px;
-  color: rgba(0, 0, 0, 0.8);
+  color: #a61313;
 }
-footer .copyright ul li a:hover{
-  background: #2bbef9 !important;
-
+footer .copyright ul li a:hover {
+  background: #a61313 !important;
 }
-footer .copyright ul li a:hover svg{
+footer .copyright ul li a:hover svg {
   color: #fff;
 }
-
-
-
 
 .productModal .MuiPaper-elevation {
   padding: 25px;
   position: relative;
-  
+
   max-width: 900px !important;
   width: 900px !important;
 }
@@ -759,4 +796,84 @@ footer .copyright ul li a:hover svg{
 .productModal h4 {
   font-size: 20px;
   color: rgba(0, 0, 0, 0.8);
+}
+
+.productZoom {
+  width: 100%;
+  height: auto;
+  padding: 0px;
+  overflow: hidden;
+  border-radius: 15px;
+}
+.productZoom .badge {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 100;
+}
+.zoomSliderBig {
+  width: 100% !important;
+}
+
+.zoomSlider {
+  padding-top: 30px;
+}
+.zoomSlider .slick-slide {
+  padding-right: 20px !important;
+}
+.zoomSlider * {
+  outline: none !important;
+}
+.zoomSlider .item {
+  border: 2px solid transparent !important;
+  overflow: hidden;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.zoomSlider .slick-current .item {
+  border: 2px solid #3bb77e !important;
+}
+.zoomSlider .slick-arrow {
+  top: 55% !important;
+  zoom: 80% !important;
+}
+.zoomSlider .slick-arrow.slick-next {
+  right: -2% !important;
+}
+.zoomSlider .slick-arrow.slick-prev {
+  left: -5% !important;
+}
+
+.quantityDrop {
+  width: 150px;
+  gap: 10px;
+}
+.quantityDrop button {
+  min-width: 40px !important;
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50% !important;
+  background: #edeef5 !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important ;
+  color: #000;
+}
+.quantityDrop button svg {
+  color: #000;
+}
+
+.quantityDrop input {
+  width: 30px;
+  border: 0px;
+  background: transparent;
+  outline: none !important;
+  text-align: center;
+}
+
+.productModal .actions button {
+  color: #000 !important;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 10px !important;
+}
+.productModal .actions button svg {
+  font-size: 15px !important;
 }

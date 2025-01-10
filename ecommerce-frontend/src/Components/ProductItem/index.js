@@ -1,18 +1,17 @@
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import Button from "@mui/material/Button";
 import { SlSizeFullscreen } from "react-icons/sl";
 import Rating from "@mui/material/Rating";
 import { FaRegHeart } from "react-icons/fa";
-import ProductModal from "../ProductModal";
+
+import { MyContext } from "../../App";
 const ProductItem = () => {
-  const [isOpenProductModal, setisOpenProductModal] = useState(false);
+ const context = useContext(MyContext)
   const viewProductDetails = (id) => {
-    setisOpenProductModal(true);
+    context.setisOpenProductModal(true);
   };
 
-  const closeProductModal = () => {
-    setisOpenProductModal(false);
-  };
+ 
   return (
     <>
       <div className="product2">
@@ -52,9 +51,7 @@ const ProductItem = () => {
         </div>
       </div>
 
-      {isOpenProductModal === true && (
-        <ProductModal closeProductModal={closeProductModal} />
-      )}
+      
 
       {/* <ProductModal /> */}
     </>
