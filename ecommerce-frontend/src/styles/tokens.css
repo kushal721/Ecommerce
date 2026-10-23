@@ -1,0 +1,38 @@
+:root {
+  color-scheme: light;
+
+  --paper: #f2ede3;
+  --paper-deep: #e8e0d0;
+  --surface: #fbf8f2;
+  --ink: #1d1c18;
+  --ink-soft: #46423a;
+  --muted: #736c5d;
+  --line: #d8cfbd;
+  --line-soft: #e6dfd1;
+
+  --accent: #c23b22;
+  --accent-press: #a2301b;
+  --accent-soft: #f5dcd2;
+  --leaf: #2f5d3a;
+  --leaf-soft: #dbe6d4;
+
+  /* One quiet tint per aisle, used behind product cutouts. */
+  --tint-fresh: #dfe7d6;
+  --tint-pantry: #f1e3c0;
+  --tint-kitchen: #e6e0d5;
+  --tint-home: #eedad0;
+
+  --font-display: "Zodiak", "Iowan Old Style", Georgia, serif;
+  --font-body: "Satoshi", "Avenir Next", "Segoe UI", sans-serif;
+
+  --radius-s: 6px;
+  --radius-m: 12px;
+  --radius-l: 20px;
+  --shadow-pop: 0 1px 2px rgba(29, 28, 24, 0.06), 0 12px 32px -12px rgba(29, 28, 24, 0.22);
+
+  --gutter: clamp(16px, 4vw, 48px);
+  --page-max: 1320px;
+  --header-h: 68px;
+
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+}

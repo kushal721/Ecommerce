@@ -1,0 +1,2605 @@
+[
+  {
+    "id": 16,
+    "slug": "apple",
+    "title": "Apple",
+    "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+    "department": "fresh",
+    "tags": [
+      "fruits"
+    ],
+    "price": 1.99,
+    "discount": 13,
+    "rating": 3,
+    "stock": 8,
+    "sku": "GRO-BRD-APP-016",
+    "weight": 9,
+    "warranty": "3 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "name": "Sophia Brown",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Very dissatisfied!",
+        "name": "Scarlett Bowman",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Very unhappy with my purchase!",
+        "name": "William Gonzalez",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "beef-steak",
+    "title": "Beef Steak",
+    "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+    "department": "fresh",
+    "tags": [
+      "meat"
+    ],
+    "price": 12.99,
+    "discount": 10,
+    "rating": 4,
+    "stock": 86,
+    "sku": "GRO-BRD-BEE-017",
+    "weight": 10,
+    "warranty": "3 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Would not recommend!",
+        "name": "Eleanor Tyler",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Fast shipping!",
+        "name": "Alexander Jones",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Great value for money!",
+        "name": "Natalie Harris",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "cat-food",
+    "title": "Cat Food",
+    "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+    "department": "pantry",
+    "tags": [
+      "pet supplies",
+      "cat food"
+    ],
+    "price": 8.99,
+    "discount": 10,
+    "rating": 2.7,
+    "stock": 46,
+    "sku": "GRO-BRD-FOO-018",
+    "weight": 10,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Would not recommend!",
+        "name": "Noah Lewis",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Very unhappy with my purchase!",
+        "name": "Ruby Andrews",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Very disappointed!",
+        "name": "Ethan Thompson",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "chicken-meat",
+    "title": "Chicken Meat",
+    "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+    "department": "fresh",
+    "tags": [
+      "meat"
+    ],
+    "price": 9.99,
+    "discount": 14,
+    "rating": 4,
+    "stock": 97,
+    "sku": "GRO-BRD-CHI-019",
+    "weight": 1,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Great product!",
+        "name": "Mateo Bennett",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Highly recommended!",
+        "name": "Jackson Evans",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Not worth the price!",
+        "name": "Sadie Morales",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "cooking-oil",
+    "title": "Cooking Oil",
+    "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+    "department": "pantry",
+    "tags": [
+      "cooking essentials"
+    ],
+    "price": 4.99,
+    "discount": 9,
+    "rating": 4,
+    "stock": 10,
+    "sku": "GRO-BRD-COO-020",
+    "weight": 5,
+    "warranty": "Lifetime warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "name": "Victoria McDonald",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Would not recommend!",
+        "name": "Hazel Evans",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Would buy again!",
+        "name": "Zoe Bennett",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "cucumber",
+    "title": "Cucumber",
+    "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+    "department": "fresh",
+    "tags": [
+      "vegetables"
+    ],
+    "price": 1.49,
+    "discount": 0,
+    "rating": 3.3,
+    "stock": 84,
+    "sku": "GRO-BRD-CUC-021",
+    "weight": 4,
+    "warranty": "2 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Great product!",
+        "name": "Lincoln Kelly",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Great value for money!",
+        "name": "Savannah Gomez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Poor quality!",
+        "name": "James Davis",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "dog-food",
+    "title": "Dog Food",
+    "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+    "department": "pantry",
+    "tags": [
+      "pet supplies",
+      "dog food"
+    ],
+    "price": 10.99,
+    "discount": 10,
+    "rating": 4.7,
+    "stock": 71,
+    "sku": "GRO-BRD-FOO-022",
+    "weight": 10,
+    "warranty": "No warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "name": "Nicholas Edwards",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Awesome product!",
+        "name": "Zachary Lee",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product!",
+        "name": "Nova Cooper",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "eggs",
+    "title": "Eggs",
+    "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+    "department": "fresh",
+    "tags": [
+      "dairy"
+    ],
+    "price": 2.99,
+    "discount": 11,
+    "rating": 3.3,
+    "stock": 9,
+    "sku": "GRO-BRD-EGG-023",
+    "weight": 2,
+    "warranty": "1 week warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Disappointing product!",
+        "name": "Penelope King",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Poor quality!",
+        "name": "Eleanor Tyler",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Very pleased!",
+        "name": "Benjamin Foster",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "fish-steak",
+    "title": "Fish Steak",
+    "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+    "department": "fresh",
+    "tags": [
+      "seafood"
+    ],
+    "price": 14.99,
+    "discount": 4,
+    "rating": 3.7,
+    "stock": 74,
+    "sku": "GRO-BRD-FIS-024",
+    "weight": 6,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Would not buy again!",
+        "name": "Caleb Perkins",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "name": "Isabella Jackson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Great value for money!",
+        "name": "Nathan Dixon",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "green-bell-pepper",
+    "title": "Green Bell Pepper",
+    "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+    "department": "fresh",
+    "tags": [
+      "vegetables"
+    ],
+    "price": 1.29,
+    "discount": 0,
+    "rating": 4,
+    "stock": 33,
+    "sku": "GRO-BRD-GRE-025",
+    "weight": 2,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommended!",
+        "name": "Avery Carter",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Would not recommend!",
+        "name": "Henry Hill",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "name": "Addison Wright",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "green-chili-pepper",
+    "title": "Green Chili Pepper",
+    "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+    "department": "fresh",
+    "tags": [
+      "vegetables"
+    ],
+    "price": 0.99,
+    "discount": 1,
+    "rating": 2.7,
+    "stock": 3,
+    "sku": "GRO-BRD-GRE-026",
+    "weight": 7,
+    "warranty": "2 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Great product!",
+        "name": "Luna Russell",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Waste of money!",
+        "name": "Noah Lewis",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Very disappointed!",
+        "name": "Clara Berry",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "honey-jar",
+    "title": "Honey Jar",
+    "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+    "department": "pantry",
+    "tags": [
+      "condiments"
+    ],
+    "price": 6.99,
+    "discount": 14,
+    "rating": 2.3,
+    "stock": 34,
+    "sku": "GRO-BRD-HON-027",
+    "weight": 2,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Very disappointed!",
+        "name": "Autumn Gomez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Highly impressed!",
+        "name": "Benjamin Wilson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Very disappointed!",
+        "name": "Nicholas Edwards",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "ice-cream",
+    "title": "Ice Cream",
+    "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+    "department": "fresh",
+    "tags": [
+      "desserts"
+    ],
+    "price": 5.49,
+    "discount": 9,
+    "rating": 4.7,
+    "stock": 27,
+    "sku": "GRO-BRD-CRE-028",
+    "weight": 1,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/2.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/3.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/4.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "name": "Elijah Cruz",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Excellent quality!",
+        "name": "Jace Smith",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "name": "Sadie Morales",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "juice",
+    "title": "Juice",
+    "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+    "department": "pantry",
+    "tags": [
+      "beverages"
+    ],
+    "price": 3.99,
+    "discount": 12,
+    "rating": 4.7,
+    "stock": 50,
+    "sku": "GRO-BRD-JUI-029",
+    "weight": 1,
+    "warranty": "6 months warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "name": "Nolan Gonzalez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Would buy again!",
+        "name": "Bella Grant",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Awesome product!",
+        "name": "Aria Flores",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "kiwi",
+    "title": "Kiwi",
+    "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+    "department": "fresh",
+    "tags": [
+      "fruits"
+    ],
+    "price": 2.49,
+    "discount": 15,
+    "rating": 3.3,
+    "stock": 99,
+    "sku": "GRO-BRD-KIW-030",
+    "weight": 5,
+    "warranty": "6 months warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommended!",
+        "name": "Emily Brown",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Would not buy again!",
+        "name": "Jackson Morales",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Fast shipping!",
+        "name": "Nora Russell",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "lemon",
+    "title": "Lemon",
+    "description": "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+    "department": "fresh",
+    "tags": [
+      "fruits"
+    ],
+    "price": 0.79,
+    "discount": 10,
+    "rating": 5,
+    "stock": 31,
+    "sku": "GRO-BRD-LEM-031",
+    "weight": 3,
+    "warranty": "No warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/lemon/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Awesome product!",
+        "name": "Logan Lawson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "name": "Avery Perez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "name": "Benjamin Foster",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "milk",
+    "title": "Milk",
+    "description": "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+    "department": "fresh",
+    "tags": [
+      "dairy"
+    ],
+    "price": 3.49,
+    "discount": 14,
+    "rating": 4,
+    "stock": 27,
+    "sku": "GRO-BRD-MIL-032",
+    "weight": 5,
+    "warranty": "3 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/milk/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Very satisfied!",
+        "name": "Nicholas Bailey",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Would not buy again!",
+        "name": "Harper Turner",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Great value for money!",
+        "name": "Autumn Gomez",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "mulberry",
+    "title": "Mulberry",
+    "description": "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+    "department": "fresh",
+    "tags": [
+      "fruits"
+    ],
+    "price": 4.99,
+    "discount": 13,
+    "rating": 2.7,
+    "stock": 99,
+    "sku": "GRO-BRD-MUL-033",
+    "weight": 5,
+    "warranty": "2 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/mulberry/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Fast shipping!",
+        "name": "Avery Barnes",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Not worth the price!",
+        "name": "Sadie Morales",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Would not buy again!",
+        "name": "Oscar Powers",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "nescafe-coffee",
+    "title": "Nescafe Coffee",
+    "description": "Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
+    "department": "pantry",
+    "tags": [
+      "beverages",
+      "coffee"
+    ],
+    "price": 7.99,
+    "discount": 2,
+    "rating": 4.7,
+    "stock": 57,
+    "sku": "GRO-BRD-NES-034",
+    "weight": 6,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "name": "Gabriel Adams",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "name": "Ella Cook",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Would buy again!",
+        "name": "Logan Torres",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "potatoes",
+    "title": "Potatoes",
+    "description": "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+    "department": "fresh",
+    "tags": [
+      "vegetables"
+    ],
+    "price": 2.29,
+    "discount": 5,
+    "rating": 4.7,
+    "stock": 13,
+    "sku": "GRO-BRD-POT-035",
+    "weight": 9,
+    "warranty": "3 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/potatoes/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "name": "Eleanor Collins",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Fast shipping!",
+        "name": "Lily Torres",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "name": "Ariana Ross",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "protein-powder",
+    "title": "Protein Powder",
+    "description": "Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
+    "department": "pantry",
+    "tags": [
+      "health supplements"
+    ],
+    "price": 19.99,
+    "discount": 8,
+    "rating": 3.7,
+    "stock": 80,
+    "sku": "GRO-BRD-PRO-036",
+    "weight": 9,
+    "warranty": "1 week warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/protein-powder/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Very unhappy with my purchase!",
+        "name": "Aurora Rodriguez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Would buy again!",
+        "name": "Miles Stevenson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with my purchase!",
+        "name": "Clara Berry",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "red-onions",
+    "title": "Red Onions",
+    "description": "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+    "department": "fresh",
+    "tags": [
+      "vegetables"
+    ],
+    "price": 1.99,
+    "discount": 10,
+    "rating": 4,
+    "stock": 82,
+    "sku": "GRO-BRD-ONI-037",
+    "weight": 9,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/red-onions/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Fast shipping!",
+        "name": "Maya Reed",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Very dissatisfied!",
+        "name": "Evelyn Gonzalez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Awesome product!",
+        "name": "Jackson Evans",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "rice",
+    "title": "Rice",
+    "description": "High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
+    "department": "pantry",
+    "tags": [
+      "grains"
+    ],
+    "price": 5.99,
+    "discount": 9,
+    "rating": 3.3,
+    "stock": 59,
+    "sku": "GRO-BRD-RIC-038",
+    "weight": 5,
+    "warranty": "6 months warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/rice/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Would buy again!",
+        "name": "Sophia Brown",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Very satisfied!",
+        "name": "Grace Perry",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Very disappointed!",
+        "name": "Cameron Burke",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "soft-drinks",
+    "title": "Soft Drinks",
+    "description": "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
+    "department": "pantry",
+    "tags": [
+      "beverages"
+    ],
+    "price": 1.99,
+    "discount": 17,
+    "rating": 3,
+    "stock": 53,
+    "sku": "GRO-BRD-SOF-039",
+    "weight": 9,
+    "warranty": "6 months warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Would not recommend!",
+        "name": "Zachary Lee",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Would not recommend!",
+        "name": "Oscar Powers",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "name": "Hannah Robinson",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "strawberry",
+    "title": "Strawberry",
+    "description": "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+    "department": "fresh",
+    "tags": [
+      "fruits"
+    ],
+    "price": 3.99,
+    "discount": 1,
+    "rating": 3.3,
+    "stock": 46,
+    "sku": "GRO-BRD-STR-040",
+    "weight": 1,
+    "warranty": "1 week warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/strawberry/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Would not buy again!",
+        "name": "Amelia Perez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Would not buy again!",
+        "name": "Olivia Wilson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Would buy again!",
+        "name": "Hunter Gordon",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "tissue-paper-box",
+    "title": "Tissue Paper Box",
+    "description": "Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
+    "department": "pantry",
+    "tags": [
+      "household essentials"
+    ],
+    "price": 2.49,
+    "discount": 13,
+    "rating": 3.7,
+    "stock": 86,
+    "sku": "GRO-BRD-TIS-041",
+    "weight": 1,
+    "warranty": "No warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/2.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Not as described!",
+        "name": "Ariana Ross",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Fast shipping!",
+        "name": "Carter Baker",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Great value for money!",
+        "name": "Penelope Harper",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "water",
+    "title": "Water",
+    "description": "Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
+    "department": "pantry",
+    "tags": [
+      "beverages"
+    ],
+    "price": 0.99,
+    "discount": 15,
+    "rating": 3.3,
+    "stock": 53,
+    "sku": "GRO-BRD-WAT-042",
+    "weight": 4,
+    "warranty": "3 months warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/water/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "name": "Jonathan Pierce",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Would not recommend!",
+        "name": "Grayson Coleman",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Not as described!",
+        "name": "Ethan Fletcher",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "bamboo-spatula",
+    "title": "Bamboo Spatula",
+    "description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "utensils"
+    ],
+    "price": 7.99,
+    "discount": 3,
+    "rating": 4.7,
+    "stock": 37,
+    "sku": "KIT-BRD-BAM-048",
+    "weight": 3,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Awesome product!",
+        "name": "Lucas Ramirez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "name": "Caleb Perkins",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Highly recommended!",
+        "name": "Nolan Gonzalez",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "black-aluminium-cup",
+    "title": "Black Aluminium Cup",
+    "description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+    "department": "kitchen",
+    "tags": [
+      "drinkware",
+      "cups"
+    ],
+    "price": 5.99,
+    "discount": 16,
+    "rating": 3,
+    "stock": 75,
+    "sku": "KIT-BRD-BLA-049",
+    "weight": 7,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/2.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Very disappointed!",
+        "name": "Alexander Hernandez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Great value for money!",
+        "name": "Aurora Rodriguez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Not worth the price!",
+        "name": "Benjamin Foster",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "slug": "black-whisk",
+    "title": "Black Whisk",
+    "description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "utensils"
+    ],
+    "price": 9.99,
+    "discount": 10,
+    "rating": 3,
+    "stock": 73,
+    "sku": "KIT-BRD-BLA-050",
+    "weight": 1,
+    "warranty": "3 months warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Not worth the price!",
+        "name": "Cameron Perez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Waste of money!",
+        "name": "Benjamin Foster",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "name": "Paisley Bell",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "slug": "boxed-blender",
+    "title": "Boxed Blender",
+    "description": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen appliances",
+      "blenders"
+    ],
+    "price": 39.99,
+    "discount": 7,
+    "rating": 5,
+    "stock": 9,
+    "sku": "KIT-BRD-BOX-051",
+    "weight": 1,
+    "warranty": "5 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/2.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/3.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/4.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "name": "Ella Adams",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Would buy again!",
+        "name": "Ruby Andrews",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "name": "Aurora Lawson",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "carbon-steel-wok",
+    "title": "Carbon Steel Wok",
+    "description": "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+    "department": "kitchen",
+    "tags": [
+      "cookware",
+      "woks"
+    ],
+    "price": 29.99,
+    "discount": 7,
+    "rating": 4.3,
+    "stock": 40,
+    "sku": "KIT-BRD-CAR-052",
+    "weight": 2,
+    "warranty": "2 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Excellent quality!",
+        "name": "Nolan Bryant",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Highly impressed!",
+        "name": "Luna Perez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "name": "Noah Lewis",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "chopping-board",
+    "title": "Chopping Board",
+    "description": "The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "cutting boards"
+    ],
+    "price": 12.99,
+    "discount": 8,
+    "rating": 4.3,
+    "stock": 14,
+    "sku": "KIT-BRD-CHO-053",
+    "weight": 2,
+    "warranty": "3 months warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Great value for money!",
+        "name": "Xavier Wright",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Great value for money!",
+        "name": "Henry Turner",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Fast shipping!",
+        "name": "Evelyn Walker",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "slug": "citrus-squeezer-yellow",
+    "title": "Citrus Squeezer Yellow",
+    "description": "The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "juicers"
+    ],
+    "price": 8.99,
+    "discount": 12,
+    "rating": 4.3,
+    "stock": 22,
+    "sku": "KIT-BRD-CIT-054",
+    "weight": 2,
+    "warranty": "2 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly recommended!",
+        "name": "Lucas Ramirez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product!",
+        "name": "Eleanor Collins",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "name": "Mila Hernandez",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "slug": "egg-slicer",
+    "title": "Egg Slicer",
+    "description": "The Egg Slicer is a convenient tool for slicing boiled eggs evenly. It's perfect for salads, sandwiches, and other dishes where sliced eggs are desired.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "slicers"
+    ],
+    "price": 6.99,
+    "discount": 15,
+    "rating": 2.7,
+    "stock": 40,
+    "sku": "KIT-BRD-SLI-055",
+    "weight": 2,
+    "warranty": "1 week warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Very dissatisfied!",
+        "name": "Harper Garcia",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with my purchase!",
+        "name": "Lily Torres",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Not worth the price!",
+        "name": "Tyler Davis",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "slug": "electric-stove",
+    "title": "Electric Stove",
+    "description": "The Electric Stove provides a portable and efficient cooking solution. Ideal for small kitchens or as an additional cooking surface for various culinary needs.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen appliances",
+      "cooktops"
+    ],
+    "price": 49.99,
+    "discount": 14,
+    "rating": 2.3,
+    "stock": 21,
+    "sku": "KIT-BRD-ELE-056",
+    "weight": 5,
+    "warranty": "2 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/2.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/3.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/4.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Would not recommend!",
+        "name": "Ava Harris",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Very dissatisfied!",
+        "name": "Liam Smith",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Very pleased!",
+        "name": "Christian Perez",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "slug": "fine-mesh-strainer",
+    "title": "Fine Mesh Strainer",
+    "description": "The Fine Mesh Strainer is a versatile tool for straining liquids and sifting dry ingredients. Its fine mesh ensures efficient filtering for smooth cooking and baking.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "strainers"
+    ],
+    "price": 9.99,
+    "discount": 4,
+    "rating": 3.7,
+    "stock": 85,
+    "sku": "KIT-BRD-FIN-057",
+    "weight": 9,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "name": "Isabella Anderson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Highly impressed!",
+        "name": "Aaliyah Hanson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Would not recommend!",
+        "name": "Layla Sullivan",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "slug": "fork",
+    "title": "Fork",
+    "description": "The Fork is a classic utensil for various dining and serving purposes. Its durable and ergonomic design makes it a reliable choice for everyday use.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "utensils"
+    ],
+    "price": 3.99,
+    "discount": 8,
+    "rating": 4,
+    "stock": 7,
+    "sku": "KIT-BRD-FOR-058",
+    "weight": 9,
+    "warranty": "No warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "name": "Elena Baker",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "name": "Avery Scott",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Would not buy again!",
+        "name": "Mateo Perez",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "slug": "glass",
+    "title": "Glass",
+    "description": "The Glass is a versatile and elegant drinking vessel suitable for a variety of beverages. Its clear design allows you to enjoy the colors and textures of your drinks.",
+    "department": "kitchen",
+    "tags": [
+      "drinkware",
+      "glasses"
+    ],
+    "price": 4.99,
+    "discount": 8,
+    "rating": 4.3,
+    "stock": 46,
+    "sku": "KIT-BRD-GLA-059",
+    "weight": 10,
+    "warranty": "3 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "name": "Jackson Evans",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Waste of money!",
+        "name": "Nicholas Bailey",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "name": "Nathan Reed",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "slug": "grater-black",
+    "title": "Grater Black",
+    "description": "The Grater in Black is a handy kitchen tool for grating cheese, vegetables, and more. Its sleek design and sharp blades make food preparation efficient and easy.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "graters"
+    ],
+    "price": 10.99,
+    "discount": 4,
+    "rating": 2.3,
+    "stock": 84,
+    "sku": "KIT-BRD-GRA-060",
+    "weight": 3,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Would not buy again!",
+        "name": "Ella Adams",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Not as described!",
+        "name": "Eli Ward",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "name": "James Garcia",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "slug": "hand-blender",
+    "title": "Hand Blender",
+    "description": "The Hand Blender is a versatile kitchen appliance for blending, pureeing, and mixing. Its compact design and powerful motor make it a convenient tool for various recipes.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen appliances",
+      "blenders"
+    ],
+    "price": 34.99,
+    "discount": 17,
+    "rating": 3.3,
+    "stock": 84,
+    "sku": "KIT-BRD-HAN-061",
+    "weight": 5,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "name": "Hazel Evans",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Highly impressed!",
+        "name": "Hannah Howard",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Would not buy again!",
+        "name": "Jonathan Pierce",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "slug": "ice-cube-tray",
+    "title": "Ice Cube Tray",
+    "description": "The Ice Cube Tray is a practical accessory for making ice cubes in various shapes. Perfect for keeping your drinks cool and adding a fun element to your beverages.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "ice cube trays"
+    ],
+    "price": 5.99,
+    "discount": 1,
+    "rating": 5,
+    "stock": 13,
+    "sku": "KIT-BRD-CUB-062",
+    "weight": 3,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Awesome product!",
+        "name": "Isaac Lawrence",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Would buy again!",
+        "name": "Leo Rivera",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "name": "Henry Turner",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "slug": "kitchen-sieve",
+    "title": "Kitchen Sieve",
+    "description": "The Kitchen Sieve is a versatile tool for sifting and straining dry and wet ingredients. Its fine mesh design ensures smooth results in your cooking and baking.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "strainers"
+    ],
+    "price": 7.99,
+    "discount": 19,
+    "rating": 4.7,
+    "stock": 68,
+    "sku": "KIT-BRD-KIT-063",
+    "weight": 5,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "name": "Stella Morris",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "name": "Henry Adams",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Awesome product!",
+        "name": "Lillian Simmons",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "slug": "knife",
+    "title": "Knife",
+    "description": "The Knife is an essential kitchen tool for chopping, slicing, and dicing. Its sharp blade and ergonomic handle make it a reliable choice for food preparation.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "cutlery"
+    ],
+    "price": 14.99,
+    "discount": 19,
+    "rating": 4,
+    "stock": 7,
+    "sku": "KIT-BRD-KNI-064",
+    "weight": 3,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Very disappointed!",
+        "name": "Aaliyah Martinez",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Fast shipping!",
+        "name": "Addison Wright",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "name": "Mateo Nguyen",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "slug": "lunch-box",
+    "title": "Lunch Box",
+    "description": "The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "storage"
+    ],
+    "price": 12.99,
+    "discount": 10,
+    "rating": 4,
+    "stock": 94,
+    "sku": "KIT-BRD-LUN-065",
+    "weight": 9,
+    "warranty": "5 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "name": "Jace Smith",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "name": "Zoe Bennett",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Poor quality!",
+        "name": "Michael Johnson",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "slug": "microwave-oven",
+    "title": "Microwave Oven",
+    "description": "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen appliances",
+      "microwaves"
+    ],
+    "price": 89.99,
+    "discount": 12,
+    "rating": 3,
+    "stock": 59,
+    "sku": "KIT-BRD-MIC-066",
+    "weight": 9,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/2.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/3.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/4.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Very dissatisfied!",
+        "name": "Nora Russell",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Fast shipping!",
+        "name": "Alice Smith",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Very disappointed!",
+        "name": "Ethan Fletcher",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "slug": "mug-tree-stand",
+    "title": "Mug Tree Stand",
+    "description": "The Mug Tree Stand is a stylish and space-saving solution for organizing your mugs. Keep your favorite mugs easily accessible and neatly displayed in your kitchen.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "organization"
+    ],
+    "price": 15.99,
+    "discount": 9,
+    "rating": 3.3,
+    "stock": 88,
+    "sku": "KIT-BRD-TRE-067",
+    "weight": 3,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/2.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Very unhappy with my purchase!",
+        "name": "Bella Grant",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "name": "Paisley Bell",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Fast shipping!",
+        "name": "David Martinez",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "slug": "pan",
+    "title": "Pan",
+    "description": "The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
+    "department": "kitchen",
+    "tags": [
+      "cookware",
+      "pans"
+    ],
+    "price": 24.99,
+    "discount": 3,
+    "rating": 3.3,
+    "stock": 90,
+    "sku": "KIT-BRD-PRD-068",
+    "weight": 8,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "name": "Michael Johnson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Highly recommended!",
+        "name": "Adrian Flores",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Not as described!",
+        "name": "Nicholas Bailey",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "slug": "plate",
+    "title": "Plate",
+    "description": "The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
+    "department": "kitchen",
+    "tags": [
+      "dinnerware",
+      "plates"
+    ],
+    "price": 3.99,
+    "discount": 7,
+    "rating": 3.7,
+    "stock": 66,
+    "sku": "KIT-BRD-PLA-069",
+    "weight": 4,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Disappointing product!",
+        "name": "Mia Miller",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product!",
+        "name": "Henry Adams",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Excellent quality!",
+        "name": "Nora Russell",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "slug": "red-tongs",
+    "title": "Red Tongs",
+    "description": "The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "tongs"
+    ],
+    "price": 6.99,
+    "discount": 15,
+    "rating": 4.3,
+    "stock": 82,
+    "sku": "KIT-BRD-TON-070",
+    "weight": 7,
+    "warranty": "No warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Very satisfied!",
+        "name": "Xavier Wright",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "name": "Stella Hughes",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Excellent quality!",
+        "name": "Jaxon Barnes",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "slug": "silver-pot-with-glass-cap",
+    "title": "Silver Pot With Glass Cap",
+    "description": "The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
+    "department": "kitchen",
+    "tags": [
+      "cookware",
+      "pots"
+    ],
+    "price": 39.99,
+    "discount": 6,
+    "rating": 3,
+    "stock": 40,
+    "sku": "KIT-BRD-SIL-071",
+    "weight": 7,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Great product!",
+        "name": "Julian Newton",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Excellent quality!",
+        "name": "Noah Lewis",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Disappointing product!",
+        "name": "Brayden Hill",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "slug": "slotted-turner",
+    "title": "Slotted Turner",
+    "description": "The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "turners"
+    ],
+    "price": 8.99,
+    "discount": 13,
+    "rating": 2.7,
+    "stock": 88,
+    "sku": "KIT-BRD-SLO-072",
+    "weight": 8,
+    "warranty": "Lifetime warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Would not recommend!",
+        "name": "Ava Taylor",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Would not recommend!",
+        "name": "Liam Smith",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "name": "Gabriel Mitchell",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "slug": "spice-rack",
+    "title": "Spice Rack",
+    "description": "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "organization"
+    ],
+    "price": 19.99,
+    "discount": 12,
+    "rating": 3.7,
+    "stock": 79,
+    "sku": "KIT-BRD-SPI-073",
+    "weight": 7,
+    "warranty": "1 week warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "name": "Elena Baker",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Excellent quality!",
+        "name": "Owen Fisher",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Waste of money!",
+        "name": "Sadie Morales",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "slug": "spoon",
+    "title": "Spoon",
+    "description": "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "utensils"
+    ],
+    "price": 4.99,
+    "discount": 2,
+    "rating": 2.7,
+    "stock": 59,
+    "sku": "KIT-BRD-SPO-074",
+    "weight": 6,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Waste of money!",
+        "name": "Jackson Evans",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Disappointing product!",
+        "name": "Elena Baker",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Awesome product!",
+        "name": "Bella Gonzalez",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "slug": "tray",
+    "title": "Tray",
+    "description": "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+    "department": "kitchen",
+    "tags": [
+      "serveware",
+      "trays"
+    ],
+    "price": 16.99,
+    "discount": 7,
+    "rating": 4,
+    "stock": 71,
+    "sku": "KIT-BRD-TRA-075",
+    "weight": 10,
+    "warranty": "5 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Fast shipping!",
+        "name": "Samantha Howard",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Very disappointed!",
+        "name": "Benjamin Wilson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Excellent quality!",
+        "name": "Caleb Nelson",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "slug": "wooden-rolling-pin",
+    "title": "Wooden Rolling Pin",
+    "description": "The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "baking"
+    ],
+    "price": 11.99,
+    "discount": 10,
+    "rating": 3.3,
+    "stock": 80,
+    "sku": "KIT-BRD-WOO-076",
+    "weight": 7,
+    "warranty": "3 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Would not recommend!",
+        "name": "Aurora Lawson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Very disappointed!",
+        "name": "Ava Taylor",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product!",
+        "name": "Mila Hernandez",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "slug": "yellow-peeler",
+    "title": "Yellow Peeler",
+    "description": "The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
+    "department": "kitchen",
+    "tags": [
+      "kitchen tools",
+      "peelers"
+    ],
+    "price": 5.99,
+    "discount": 12,
+    "rating": 3.3,
+    "stock": 35,
+    "sku": "KIT-BRD-YEL-077",
+    "weight": 7,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Very unhappy with my purchase!",
+        "name": "Claire Foster",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "name": "Aaliyah Hanson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product!",
+        "name": "Olivia Wilson",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "decoration-swing",
+    "title": "Decoration Swing",
+    "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+    "department": "home",
+    "tags": [
+      "home decor",
+      "swing"
+    ],
+    "price": 59.99,
+    "discount": 10,
+    "rating": 2,
+    "stock": 47,
+    "sku": "HOM-BRD-DEC-043",
+    "weight": 4,
+    "warranty": "1 week warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/2.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/3.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Would not buy again!",
+        "name": "Daniel Cook",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Poor quality!",
+        "name": "Hunter Gordon",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Very unhappy with my purchase!",
+        "name": "Stella Morris",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "family-tree-photo-frame",
+    "title": "Family Tree Photo Frame",
+    "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+    "department": "home",
+    "tags": [
+      "home decor",
+      "photo frame"
+    ],
+    "price": 29.99,
+    "discount": 15,
+    "rating": 3.7,
+    "stock": 77,
+    "sku": "HOM-BRD-FAM-044",
+    "weight": 1,
+    "warranty": "1 month warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly impressed!",
+        "name": "Oscar Powers",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "name": "Austin Hudson",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 2,
+        "comment": "Very dissatisfied!",
+        "name": "Luke Cooper",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "house-showpiece-plant",
+    "title": "House Showpiece Plant",
+    "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    "department": "home",
+    "tags": [
+      "home decor",
+      "artificial plants"
+    ],
+    "price": 39.99,
+    "discount": 7,
+    "rating": 3.7,
+    "stock": 28,
+    "sku": "HOM-BRD-HOU-045",
+    "weight": 8,
+    "warranty": "1 year warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/2.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/3.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "name": "Natalie Harris",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 1,
+        "comment": "Poor quality!",
+        "name": "Max Russell",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "name": "Nolan Gonzalez",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "plant-pot",
+    "title": "Plant Pot",
+    "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+    "department": "home",
+    "tags": [
+      "home decor",
+      "plant accessories"
+    ],
+    "price": 14.99,
+    "discount": 7,
+    "rating": 4,
+    "stock": 59,
+    "sku": "HOM-BRD-PLA-046",
+    "weight": 9,
+    "warranty": "Lifetime warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/2.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/3.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/4.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Fast shipping!",
+        "name": "Vivian Carter",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "name": "Ella Adams",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Poor quality!",
+        "name": "Liam Smith",
+        "date": "2025-04-30"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "slug": "table-lamp",
+    "title": "Table Lamp",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    "department": "home",
+    "tags": [
+      "home decor",
+      "lighting"
+    ],
+    "price": 49.99,
+    "discount": 7,
+    "rating": 4.3,
+    "stock": 9,
+    "sku": "HOM-BRD-TAB-047",
+    "weight": 4,
+    "warranty": "3 months warranty",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "name": "Benjamin Foster",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 3,
+        "comment": "Would not recommend!",
+        "name": "Sophia Jones",
+        "date": "2025-04-30"
+      },
+      {
+        "rating": 5,
+        "comment": "Awesome product!",
+        "name": "Natalie Harris",
+        "date": "2025-04-30"
+      }
+    ]
+  }
+]
